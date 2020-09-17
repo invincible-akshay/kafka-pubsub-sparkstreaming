@@ -27,6 +27,8 @@ Conversely, you can delete a topic, using this command:
 ## Run the Application
 Run the Producer and Consumer classes, i.e. KafkaReceiverSparkStream and FileToKafkaProducer.
 
+FileToKafkaProducer takes one argument, path of the file to be published on Kafka.
+
 If any dependency issues come up, add spark jars as external JARs to the project,
 generally found in the location (version may vary): ```apache-spark/2.4.5/libexec/sbin```
 
