@@ -1,4 +1,4 @@
-# Read File as Kafka Messages and Ingest to Spark Streaming
+# Read File and Publish line by line as Kafka Messages, Subscribe to topic and ingest to Spark Streaming
 
 ## Install and Setup Kafka
 Step 1. Install Kafka
