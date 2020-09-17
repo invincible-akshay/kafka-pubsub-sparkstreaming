@@ -1,0 +1,7 @@
+builds/
+/target/
+out/
+.idea/
+
+.DS_Store
+
